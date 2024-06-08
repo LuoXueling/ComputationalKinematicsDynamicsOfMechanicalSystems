@@ -32,3 +32,36 @@ Two examples (INP4 and INP5 in `DynamicsExer`) are reported in `Dynamics/Report.
 2. Use `create_bodyshape.py` to generate a file for geometries of objects (such as `INP*_shape.txt` in the repository). 
 3. Run `main.py` to select the input file and geometry file.
 4. `main.py` then calls `Dynamics.exe` complied from `DynamicsC++` that generates outputs, and plot the outputs, including positions, velocities, accelerations, and Lagrangian multipliers of objects, charts, and a mp4 file.
+
+## Examples
+
+### Kinematics
+
+
+
+https://github.com/LuoXueling/ComputationalKinematicsDynamicsOfMechanicalSystems/assets/75973860/97942a6b-1a3d-4220-8ee3-b2e4ed4e4a56
+
+
+
+https://github.com/LuoXueling/ComputationalKinematicsDynamicsOfMechanicalSystems/assets/75973860/0aa358b3-0747-4bd0-b454-3006491e0ade
+
+
+### Dynamics
+
+
+
+
+https://github.com/LuoXueling/ComputationalKinematicsDynamicsOfMechanicalSystems/assets/75973860/053d886f-e839-45f3-9d0c-144fb8e35b16
+
+
+
+(With a spring)
+
+
+https://github.com/LuoXueling/ComputationalKinematicsDynamicsOfMechanicalSystems/assets/75973860/eda1c3a5-ae41-4451-9f64-0b45c22bc854
+
+
+
+
+
+

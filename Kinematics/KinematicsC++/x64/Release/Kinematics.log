@@ -1,0 +1,27 @@
+﻿  background.cpp
+G:\复杂系统动力学\projects\Kinematics\background.cpp(262,15): warning C4244: “return”: 从“double”转换到“T”，可能丢失数据
+G:\复杂系统动力学\projects\Kinematics\background.cpp(262,15): warning C4244:         with
+G:\复杂系统动力学\projects\Kinematics\background.cpp(262,15): warning C4244:         [
+G:\复杂系统动力学\projects\Kinematics\background.cpp(262,15): warning C4244:             T=int
+G:\复杂系统动力学\projects\Kinematics\background.cpp(262,15): warning C4244:         ]
+  constraint.cpp
+G:\复杂系统动力学\projects\Kinematics\background.cpp(59): message : 查看对正在编译的函数 模板 实例化“T getNum<int>(std::string)”的引用
+G:\复杂系统动力学\projects\Kinematics\background.cpp(59): message :         with
+G:\复杂系统动力学\projects\Kinematics\background.cpp(59): message :         [
+G:\复杂系统动力学\projects\Kinematics\background.cpp(59): message :             T=int
+G:\复杂系统动力学\projects\Kinematics\background.cpp(59): message :         ]
+G:\复杂系统动力学\projects\Kinematics\constraint.cpp(83,51): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\复杂系统动力学\projects\Kinematics\constraint.cpp(120,42): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\复杂系统动力学\projects\Kinematics\constraint.cpp(131,42): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  matrixLib.cpp
+G:\复杂系统动力学\projects\Kinematics\constraint.cpp(142,42): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\复杂系统动力学\projects\Kinematics\matrixLib.cpp(22,36): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\复杂系统动力学\projects\Kinematics\matrixLib.cpp(23,44): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\复杂系统动力学\projects\Kinematics\matrixLib.cpp(70,30): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  rigidBody.cpp
+G:\复杂系统动力学\projects\Kinematics\matrixLib.cpp(71,39): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 427 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Kinematics.vcxproj -> G:\复杂系统动力学\projects\Kinematics\x64\Release\Kinematics.exe

@@ -1,0 +1,29 @@
+dynamics
+
+Number of rigidbodys [bodyNo, coords, m, Jc] = 3
+1	1	1	200	450
+3	1	-1	35	35
+4	0	0	25	0.02
+
+Number of constraints [type, b1, s1, v1, (b2), (s2), (v2), (c), (C)] = 6
+ax	0	-1 0	0 0				1 0
+ay	0	-1 0	0 0				1 0
+r	0	1 0	0 0	1	-1.75 0	0 0
+r	1	1.75 0	0 0	2	0 0	0 0
+ay	2	0 0	0 0				1 0
+aphi	2	0 0	0 0				1 0
+
+Independent coordinates [bodyNo, coordNo, initial position,initial velocity] :
+0	3	3.1415926	30
+
+Number of forces [type, (body), (s), vector/value] = 2
+g				1	0
+m	0	41450
+
+Number of actuator [type, F, k, c, l0, b1, (s1), b2, (s2)] = 0
+
+t0 = 0
+te = 1.5
+dt = 0.001
+e1 = 0.00001
+e2 = 0.00001

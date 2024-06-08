@@ -23,6 +23,9 @@ One can find two examples (INP0 and INP2 in `KinematicsExer`) of questions, thei
 
 No space is allowed in filepaths.
 
+[Flow chart of kinematics](https://github.com/user-attachments/files/15747607/Flow.chart.for.kinematics.pdf)
+
+
 ### For dynamics
 
 Two examples (INP4 and INP5 in `DynamicsExer`) are reported in `Dynamics/Report.docx` containing descriptions of equations and results. 
@@ -32,6 +35,9 @@ Two examples (INP4 and INP5 in `DynamicsExer`) are reported in `Dynamics/Report.
 2. Use `create_bodyshape.py` to generate a file for geometries of objects (such as `INP*_shape.txt` in the repository). 
 3. Run `main.py` to select the input file and geometry file.
 4. `main.py` then calls `Dynamics.exe` complied from `DynamicsC++` that generates outputs, and plot the outputs, including positions, velocities, accelerations, and Lagrangian multipliers of objects, charts, and a mp4 file.
+
+[Flow chart of dynamics](https://github.com/user-attachments/files/15747605/default.pdf)
+
 
 ## Examples
 
